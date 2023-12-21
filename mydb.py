@@ -23,3 +23,4 @@ cursorObject.execute("CREATE DATABASE AlexDB")
 
 print("All Done!!!")
 
+# we can delete this file after making a database connection...
